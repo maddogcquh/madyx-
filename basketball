@@ -1,0 +1,28 @@
+<html>
+
+<head>
+   <script defer src="./script.js"></script>
+   <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="topnav" id="myTopnav">
+    <a href="#home" class="active">Home</a>
+    <a href="#football">football</a>
+    <a href="#fishing">fishing</a>
+    <a href="#basketball">basketball</a>
+    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+      <i class="fa fa-bars"></i>
+    </a>
+  </div>
+  <h2>Basketball</h2>
+  <p>Basketball has been my passion since my school days. Here's why I am so enthusiastic about the sport:</p>
+  <ul>
+    <li>Teamwork and camaraderie: Basketball is a team sport that thrives on cooperation and synchrony. Being part of a team and working together towards a common goal fosters strong bonds and friendships.</li>
+    <li>Physical fitness: Playing basketball involves constant movement, running, and jumping, making it an excellent cardio workout. It helps me stay fit, improve my endurance, and develop my overall athleticism.</li>
+    <li>Competition and adrenaline rush: The fast-paced nature of basketball, combined with the competitive spirit, provides an adrenaline rush like no other. The thrill of scoring points, blocking shots, or making a clutch play adds excitement to every game.</li>
+    <li>Skill development: Basketball requires various skills such as dribbling, shooting, passing, and defending. Constant practice and honing these skills not only improve my performance on the court but also teach me discipline and determination.</li>
+  </ul>
+</body>
+
+</html>
